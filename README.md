@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 My name is Mohammad Yaseen Abdul Aziz<br><br>Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building innovative web applications and exploring the realms of AI and machine learning.<br><br>
+# About Me:
+# My name is Mohammad Yaseen Abdul Aziz<br><br>Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building innovative web applications and exploring the realms of AI and machine learning.<br><br>
 
 ## 🚀 Projects<br><br>Here are some of the projects I've been working on:<br><br>
 
