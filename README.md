@@ -33,7 +33,12 @@
 
 <br>
 
-- [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-abdul-aziz)<br>- [Instagram](https://www.instagram.com/yaleftonseen)<br><br>Feel free to reach out for collaborations or just to say hi!<br>
+- [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-abdul-aziz)<br>
+- [Instagram](https://www.instagram.com/yaleftonseen)<br>
+
+<br>
+
+Feel free to reach out for collaborations or just to say hi!<br>
 
 <br>
 
