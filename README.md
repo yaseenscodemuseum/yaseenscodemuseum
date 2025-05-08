@@ -3,13 +3,13 @@
 
 ## 🚀 Projects<br><br>Here are some of the projects I've been working on:<br><br>
 
-- **[Portfolio-Website](https://github.com/yaseenscodemuseum/Portfolio-Website)**: My personal portfolio showcasing my skills and projects.<br>
-
-- **[Expensify](https://github.com/yaseenscodemuseum/Expensify)**: A web application to track and manage expenses efficiently.<br>
-
 - **[MewFlo](https://github.com/yaseenscodemuseum/MewFlo)**: An AI-powered playlist maker that curates music based on user preferences.<br>
 
 - **[EyeSee](https://github.com/yaseenscodemuseum/EyeSee)**: A Python application for face detection using computer vision techniques.<br>
+
+- **[Expensify](https://github.com/yaseenscodemuseum/Expensify)**: A web application to track and manage expenses efficiently.<br>
+
+- **[Portfolio-Website](https://github.com/yaseenscodemuseum/Portfolio-Website)**: My personal portfolio showcasing my skills and projects.<br>
 
 <br>
 
