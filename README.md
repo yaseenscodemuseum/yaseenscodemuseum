@@ -3,13 +3,15 @@
 
 ## 🚀 Projects<br><br>Here are some of the projects I've been working on:<br><br>
 
+- **[Watchwizards](https://github.com/yaseenscodemuseum/Watchwizards)**: An AI-powered movie recommendation engine that leverages AI to provide personalized movie and TV show recommendations. <br>
+
+- **[JobNest](https://github.com/yaseenscodemuseum/JobNest)**: A full-stack job portal built with Next.js, featuring secure user authentication powered by Clerk. <br>
+
 - **[MewFlo](https://github.com/yaseenscodemuseum/MewFlo)**: An AI-powered playlist maker that curates music based on user preferences.<br>
 
 - **[EyeSee](https://github.com/yaseenscodemuseum/EyeSee)**: A Python application for face detection using computer vision techniques.<br>
 
 - **[Expensify](https://github.com/yaseenscodemuseum/Expensify)**: A web application to track and manage expenses efficiently.<br>
-
-- **[Portfolio-Website](yaseensportfolio.vercel.app)**: My personal portfolio showcasing my skills and projects.<br>
 
 <br>
 
