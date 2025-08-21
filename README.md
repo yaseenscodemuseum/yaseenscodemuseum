@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Yaseen 
+# Hello, my name is Mohammad Yaseen 
 
 I'm an **AI/ML Engineer** passionate about building **end-to-end AI applications**.  
 My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, with a strong focus on developing scalable solutions that create real-world impact, especially in healthcare and automation.  
