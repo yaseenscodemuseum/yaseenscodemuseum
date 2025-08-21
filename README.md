@@ -38,8 +38,9 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 - Scikit-learn, Pandas, NumPy, OpenCV  
 - JWT Auth, REST APIs  
 - MySQL, Firebase, Vercel  
-- GitHub Actions  
-- Figma, Canva, Photoshop  
+- GitHub Actions
+- Figma, Canva
+- ChatGPT, Claude, Gemini, Perplexity
 
 ---
 
