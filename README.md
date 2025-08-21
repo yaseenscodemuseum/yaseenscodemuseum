@@ -6,7 +6,7 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 - 🔭 Currently working on **AI-driven platforms & tools**  
 - 🧠 Core Skills: **Python, PyTorch, YOLOv8, LLMs, AWS, Docker**  
 - 💡 Always open to collaborating on innovative AI projects  
-- 📫 Reach me via [Email](mailto:yaseenabdulaziz18@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-abdul-aziz/)  
+- 📫 Reach me via [Email](mailto:yaseenabdulaziz18@gmail.com), [Instagram](https://www.instagram.com/yaleftonseen/) or [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-abdul-aziz/)  
 
 ---
 
@@ -54,13 +54,5 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=yaseenscodemuseum&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-yaseen-abdul-aziz)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yaleftonseen/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaseenabdulaziz18@gmail.com)  
 
 ---
