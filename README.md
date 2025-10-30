@@ -12,6 +12,7 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 
 ## 🚀 Featured Projects  
 
+- **[Lumeskin](https://github.com/yaseenscodemuseum/Lumeskin)** → AI-Powered Skin Diagnostic Engine.  
 - **[Watchwizards](https://github.com/yaseenscodemuseum/Watchwizards)** → AI-powered movie recommendation engine for personalized content discovery.  
 - **[JobNest](https://github.com/yaseenscodemuseum/JobNest)** → AI-powered career platform with resume analysis & skill-building.  
 - **[MewFlo](https://github.com/yaseenscodemuseum/MewFlo)** → AI-powered playlist generator based on user preferences.  
