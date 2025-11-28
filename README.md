@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Yaseen 👋
+# Hi there, I'm Mohammad Yaseen 
 
 I'm currently an **Associate Cloud Engineer** passionate about building **end-to-end AI applications**.  
 My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, with a strong focus on developing scalable solutions for healthcare and automation.
