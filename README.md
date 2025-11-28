@@ -47,7 +47,6 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=yaseenscodemuseum&show_icons=true&theme=blue_navy&hide_border=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=yaseenscodemuseum&theme=blue_navy&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseenscodemuseum&theme=blue_navy&hide_border=false&layout=compact)  
 
