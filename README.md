@@ -43,9 +43,3 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 - Figma, Canva
 - ChatGPT, Claude, Gemini, Perplexity
 
----
-
-## 📊 GitHub Stats  
-
-![](https://nirzak-streak-stats.vercel.app/?user=yaseenscodemuseum&theme=blue_navy&hide_border=false)  
-
