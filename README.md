@@ -3,14 +3,14 @@
 I'm currently an **Associate Cloud Engineer** passionate about building **end-to-end AI applications**.  
 My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, with a strong focus on developing scalable solutions for healthcare and automation.
 
-- 🔭 Currently working on **AWS Cloud Infrastructure & Serverless Deployments****
-- 🧠 Core Skills: **Python, PyTorch, YOLOv8, LLMs, AWS**
-- 💡 Always open to collaborating on innovative AI projects
-- 📫 **Reach me via:** [Email](mailto:yaseenabdulaziz18@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-abdul-aziz/) • [Instagram](https://www.instagram.com/yaleftonseen/)
+- Currently working on **AWS Cloud Infrastructure & Serverless Deployments****
+- Core Skills: **Python, PyTorch, YOLOv8, LLMs, AWS**
+- Always open to collaborating on innovative AI projects
+- **Reach me via:** [Email](mailto:yaseenabdulaziz18@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-abdul-aziz/) • [Instagram](https://www.instagram.com/yaleftonseen/)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -22,9 +22,9 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🧠 AI & Data Science
+### AI & Data Science
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
@@ -32,14 +32,14 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🌐 Full Stack Development
+### Full Stack Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ☁️ DevOps & Tools
+### DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
