@@ -14,11 +14,11 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Lumeskin](https://github.com/yaseenscodemuseum/Lumeskin)** | Open-Source AI-Powered Skin Diagnostic Engine. | `PyTorch` `CV` |
-| **[Watchwizards](https://github.com/yaseenscodemuseum/Watchwizards)** | AI-powered movie recommendation engine for personalized content. | `ML` `Python` |
-| **[JobNest](https://github.com/yaseenscodemuseum/JobNest)** | AI-powered career platform with resume analysis. | `LLMs` `Next.js` |
-| **[MewFlo](https://github.com/yaseenscodemuseum/MewFlo)** | AI-powered playlist generator based on user preferences. | `Python` `API` |
-| **[EyeSee](https://github.com/yaseenscodemuseum/EyeSee)** | Real-time face detection desktop app. | `OpenCV` `PyQt` |
+| **[Lumeskin](https://github.com/yaseenscodemuseum/Lumeskin)** | Open-Source AI-Powered Skin Diagnostic Engine. | `YOLOv8` `PyTorch` `FastAPI` |
+| **[Watchwizards](https://github.com/yaseenscodemuseum/Watchwizards)** | AI-powered movie recommendation engine. | `Python` `Scikit-learn` `Streamlit` |
+| **[JobNest](https://github.com/yaseenscodemuseum/JobNest)** | AI career platform with resume analysis. | `Next.js` `LLMs` `Tailwind` |
+| **[MewFlo](https://github.com/yaseenscodemuseum/MewFlo)** | Dynamic playlist generator based on user mood. | `Python` `Spotify API` |
+| **[EyeSee](https://github.com/yaseenscodemuseum/EyeSee)** | Real-time face detection desktop app. | `OpenCV` `PyQt` `Python` |
 
 ---
 
