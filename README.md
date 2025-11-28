@@ -3,7 +3,7 @@
 I'm currently an **Associate Cloud Engineer** passionate about building **end-to-end AI applications**.
 My expertise lies in architecting end-to-end AI applications, blending Computer Vision and Large Language Models with robust AWS serverless infrastructure to deploy scalable solutions.
 
-<b>What truly drives me is the ambition to move beyond enterprise-focused software and build accessible tools that help real people, creating a tangible, positive impact on the world.<b>
+<i><b>What truly drives me is the ambition to move beyond enterprise-focused software and build accessible tools that help real people, creating a tangible, positive impact on the world.<b><i>
 
 - I'm currently working on **AWS Cloud Infrastructure & Serverless Deployments****
 - Core Skills: **Python, AWS**
