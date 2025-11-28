@@ -6,7 +6,7 @@ My expertise lies in architecting end-to-end AI applications, blending Computer 
 <i><b>What truly drives me is the ambition to move beyond enterprise-focused software and build accessible tools that help real people, creating a tangible, positive impact on the world.</b></i>
 
 - I'm currently working on **AWS Cloud Infrastructure & Serverless Deployments****
-- Core Skills: **Python, AWS**
+- Core Skills: **Python, AWS, Applied ML (Computer Vision)**
 - Always open to collaborating on innovative AI projects
 - **Reach me via:** [Email](mailto:yaseenabdulaziz18@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-abdul-aziz/) or [Instagram](https://www.instagram.com/yaleftonseen/)
 - [**Access my Resume here**](https://drive.google.com/file/d/1HcHmKSm0-6qGxHW04zi1NYrOw7EIjyLa/view?usp=sharing)
