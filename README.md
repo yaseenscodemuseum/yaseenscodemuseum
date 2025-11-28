@@ -1,10 +1,12 @@
 # Hi there, I'm Mohammad Yaseen 
 
-I'm currently an **Associate Cloud Engineer** passionate about building **end-to-end AI applications**.  
-My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, with a strong focus on developing scalable solutions for healthcare and automation.
+I'm currently an **Associate Cloud Engineer** passionate about building **end-to-end AI applications**.
+My expertise lies in architecting end-to-end AI applications, blending Computer Vision and Large Language Models with robust AWS serverless infrastructure to deploy scalable solutions.
 
-- Currently working on **AWS Cloud Infrastructure & Serverless Deployments****
-- Core Skills: **Python, PyTorch, YOLOv8, LLMs, AWS**
+<b>What truly drives me is the ambition to move beyond enterprise-focused software and build accessible tools that help real people, creating a tangible, positive impact on the world.<b>
+
+- I'm currently working on **AWS Cloud Infrastructure & Serverless Deployments****
+- Core Skills: **Python, AWS**
 - Always open to collaborating on innovative AI projects
 - **Reach me via:** [Email](mailto:yaseenabdulaziz18@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-abdul-aziz/) • [Instagram](https://www.instagram.com/yaleftonseen/)
 
