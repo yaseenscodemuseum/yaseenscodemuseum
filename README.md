@@ -14,10 +14,10 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[MewFlo](https://github.com/yaseenscodemuseum/MewFlo)** | AI playlist generator with Spotify, Google AI & OpenAI. | `React 18` `Vite` `TypeScript` `Node.js` `Spotify API` `GenAI` |
 | **[Lumeskin](https://github.com/yaseenscodemuseum/Lumeskin)** | Open-Source AI-Powered Skin Diagnostic Engine. | `YOLOv8` `PyTorch` `FastAPI` |
-| **[Watchwizards](https://github.com/yaseenscodemuseum/Watchwizards)** | AI-powered movie recommendation engine. | `Python` `Scikit-learn` `Streamlit` |
 | **[JobNest](https://github.com/yaseenscodemuseum/JobNest)** | AI career platform with resume analysis. | `Next.js` `LLMs` `Tailwind` |
+| **[Watchwizards](https://github.com/yaseenscodemuseum/Watchwizards)** | AI-powered movie recommendation engine. | `Python` `Scikit-learn` `Streamlit` |
+| **[MewFlo](https://github.com/yaseenscodemuseum/MewFlo)** | AI playlist generator with Spotify, Google AI & OpenAI. | `React 18` `Vite` `TypeScript` `Node.js` `Spotify API` `GenAI` |
 | **[EyeSee](https://github.com/yaseenscodemuseum/EyeSee)** | Real-time face detection desktop app. | `OpenCV` `PyQt` `Python` |
 
 ---
