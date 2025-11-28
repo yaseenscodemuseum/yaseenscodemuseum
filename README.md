@@ -4,7 +4,7 @@ I'm an **AI/ML Engineer** passionate about building **end-to-end AI applications
 My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, with a strong focus on developing scalable solutions that create real-world impact, especially in healthcare and automation.  
 
 - 🔭 Currently working on **AI-driven platforms & tools**  
-- 🧠 Core Skills: **Python, PyTorch, YOLOv8, LLMs, AWS, Docker**  
+- 🧠 Core Skills: **Python, PyTorch, YOLOv8, LLMs, AWS**  
 - 💡 Always open to collaborating on innovative AI projects  
 - 📫 Reach me via [Email](mailto:yaseenabdulaziz18@gmail.com), [Instagram](https://www.instagram.com/yaleftonseen/) or [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-abdul-aziz/)  
 
