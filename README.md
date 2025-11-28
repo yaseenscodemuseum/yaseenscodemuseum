@@ -42,4 +42,9 @@ My expertise lies in **Computer Vision** and **Large Language Models (LLMs)**, w
 - GitHub Actions
 - Figma, Canva
 - ChatGPT, Claude, Gemini, Perplexity
+  
+---
 
+## 📊 GitHub Stats
+
+[![Cool Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yaseenscodemuseum?cardType=level&theme=graywhite&preferLogin=false)](https://git.io/awesome-stats-card)
