@@ -9,7 +9,8 @@ My expertise lies in architecting end-to-end AI applications, blending Computer 
 - Core Skills: **Python, AWS**
 - Always open to collaborating on innovative AI projects
 - **Reach me via:** [Email](mailto:yaseenabdulaziz18@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohammad-yaseen-abdul-aziz/) • [Instagram](https://www.instagram.com/yaleftonseen/)
-- [![Resume](https://img.shields.io/badge/Resume-View_Now-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1HcHmKSm0-6qGxHW04zi1NYrOw7EIjyLa/view?usp=sharing)
+
+[![Resume](https://img.shields.io/badge/Resume-View_Now-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1HcHmKSm0-6qGxHW04zi1NYrOw7EIjyLa/view?usp=sharing)
   
 ---
 
